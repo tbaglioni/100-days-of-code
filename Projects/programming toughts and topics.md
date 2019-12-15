@@ -1,7 +1,7 @@
 What languages I would like to learn
 
 JavaScript,
-HTML
+HTML the basics and the Newer things
 
 Topics
 
