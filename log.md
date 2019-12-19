@@ -8,7 +8,7 @@
 
 **Thoughts:** This is committing to the whole community so make it great.
 
-**Link to work:** https://github.com/tbaglioni/100-days-of-code
+**Link to work:** [Link to Git](https://github.com/tbaglioni/100-days-of-code/tree/master/Projects/01%20The%20Beginning)
 
 ---
 
@@ -18,7 +18,7 @@
 
 **Thoughts:** First I need to monitor a directory of choice and report to me if something changes. It then connects to a FTP Server and upload files that have been added.
 
-**Link to work:** https://www.npmjs.com/package/jsftp think im using some of this code.
+**Link to work:** [Link to Git](https://github.com/tbaglioni/100-days-of-code/tree/master/Projects/01%20The%20Beginning)
 
 ---
 
@@ -48,7 +48,7 @@
 
 **Thoughts:** Is kinda negative today but I got some code to work anyway.
 
-**Link to work:** [Link to Git](https://github.com/tbaglioni/100-days-of-code/commit/ccfe907cab3d4ffc4b7b50532040a887ba996c5f)
+**Link to work:** [Link to Git](https://github.com/tbaglioni/100-days-of-code/tree/master/Projects/01%20The%20Beginning)
 
 ---
 
