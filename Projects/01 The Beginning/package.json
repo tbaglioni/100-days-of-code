@@ -1,0 +1,15 @@
+{
+  "name": "100days",
+  "version": "1.0.0",
+  "description": "100daysofcode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas RB",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "ftp": "^0.3.10"
+  }
+}
