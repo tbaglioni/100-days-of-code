@@ -54,11 +54,11 @@
 
 ### Day 5: 2019-12-19
 
-**Today's Progress** 
+**Today's Progress** We started with doing some pseudocode for beginners and I figured out what my robot should do. We then made .GitIgnore and that hides my credentials so others cant hack me and see my details. We played a litlle around with Git and how Visual Studio Code can do commits from the menu. 
 
-**Thoughts:**
+**Thoughts:** I think I got some momentum build up and looking forward to tommorrow and learning more and more.
 
-**Link to work:**
+**Link to work:** [Link to Git](https://github.com/tbaglioni/100-days-of-code/tree/master/Projects/01%20The%20Beginning)
 
 ---
 
