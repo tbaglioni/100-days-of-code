@@ -64,6 +64,26 @@
 
 ### Day 6: 2019-12-20
 
+**Today's Progress** Was sick and coudnt even code a little..
+
+**Thoughts:** Downer.
+
+**Link to work:** Nothing
+
+---
+
+### Day X: 2019-12-21
+
+**Today's Progress** Today im still feeling sick and lack of energy. But got a FTP server up running to test my robot. And I got the login for the FTP server coded in to credentials and Gitignored it.
+
+**Thoughts:** Glad that my m8 got hold of me and keep my spirit up.
+
+**Link to work:** [Link to Git](https://github.com/tbaglioni/100-days-of-code/tree/master/Projects/01%20The%20Beginning)
+
+---
+
+### Day X: 2019-12-xx
+
 **Today's Progress** 
 
 **Thoughts:**
@@ -71,6 +91,27 @@
 **Link to work:**
 
 ---
+
+### Day X: 2019-12-xx
+
+**Today's Progress** 
+
+**Thoughts:**
+
+**Link to work:**
+
+---
+
+### Day X: 2019-12-xx
+
+**Today's Progress** 
+
+**Thoughts:**
+
+**Link to work:**
+
+---
+
 
 # Day template
 
