@@ -82,13 +82,13 @@
 
 ---
 
-### Day X: 2019-12-xx
+### Day X: 2019-12-22
 
-**Today's Progress** 
+**Today's Progress** @Brianmanden is helping me out understanding credentials and how its loaded into index.js with parsedCredentials. We then made a succesfull connection to the FTP server and got to upload some files that where copied into the watchdir on my local drive. We played around with fileActions and made a loop. All in all we made some progress. And kudos to @Brianmanden
 
-**Thoughts:**
+**Thoughts:** I get the parsedCredentials part and learned alot by continue to read and stare at the code and how it works. Im confused at the fileActions part and dont get it yet. Hoping that I will learn it down the way.
 
-**Link to work:**
+**Link to work:** [Link to Git](https://github.com/tbaglioni/100-days-of-code/tree/master/Projects/01%20The%20Beginning)
 
 ---
 
